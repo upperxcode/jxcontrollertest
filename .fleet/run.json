@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "dart",
+            "name": "dart configuration",
+            "goExecPath": "flutter",
+            "buildParams": [],
+        },
+        
+    ]
+}
